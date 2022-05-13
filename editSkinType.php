@@ -37,7 +37,7 @@
 <body>
     <a href="homePage.php">Home</a>
     <br /><br />
-    <h3>Edit Data Pekerja</h3>
+    <h3>Edit Skin Type</h3>
     <form name="update_skin_type" method="post" action="editSkinType.php">
         <table width = "25%" border="0">
             <tr>
